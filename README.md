@@ -41,6 +41,20 @@ The workflow includes:
 * Variable positions were observed at residues 2, 12, 23, and 61.
 * Position 23 exhibited the highest variability.
 
+## Visual Results
+
+### Conservation Map
+
+![Conservation Map](results/conservation_map.png)
+
+### Similarity Heatmap
+
+![Similarity Heatmap](results/similarity_heatmap.png)
+
+### Phylogenetic Tree
+
+![Phylogenetic Tree](results/phylogenetic_tree.png)
+
 ## Author
 
 Nirupam Joarder
